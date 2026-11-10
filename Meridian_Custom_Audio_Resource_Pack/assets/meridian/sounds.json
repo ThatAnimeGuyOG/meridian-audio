@@ -1,0 +1,102 @@
+
+{
+  "chase_music": {
+    "sounds": [
+      {
+        "name": "meridian:chase-music",
+        "stream": true
+      }
+    ]
+  },
+  "heartbeat": {
+    "sounds": [
+      {
+        "name": "meridian:heartbeat"
+      }
+    ]
+  },
+  "humming_lights_with_flicker": {
+    "sounds": [
+      {
+        "name": "meridian:humming-lights-with-flicker"
+      }
+    ]
+  },
+  "metal_creaking": {
+    "sounds": [
+      {
+        "name": "meridian:metal-creaking"
+      }
+    ]
+  },
+  "monster_growl1": {
+    "sounds": [
+      {
+        "name": "meridian:monster-growl1"
+      }
+    ]
+  },
+  "monster_growl2": {
+    "sounds": [
+      {
+        "name": "meridian:monster-growl2"
+      }
+    ]
+  },
+  "monster_roar": {
+    "sounds": [
+      {
+        "name": "meridian:monster_roar"
+      }
+    ]
+  },
+  "monster_eating": {
+    "sounds": [
+      {
+        "name": "meridian:monster_eating"
+      }
+    ]
+  },
+  "monster_step_left": {
+    "sounds": [
+      {
+        "name": "meridian:monster-step-left"
+      }
+    ]
+  },
+  "monster_step_right": {
+    "sounds": [
+      {
+        "name": "meridian:monster-step-right"
+      }
+    ]
+  },
+  "monster_step_with_growl": {
+    "sounds": [
+      {
+        "name": "meridian:monster-step-with-growl"
+      }
+    ]
+  },
+  "monster_step": {
+    "sounds": [
+      {
+        "name": "meridian:monster-step"
+      }
+    ]
+  },
+  "suspense_sound": {
+    "sounds": [
+      {
+        "name": "meridian:suspense-sound"
+      }
+    ]
+  },
+  "suspense_sound2": {
+    "sounds": [
+      {
+        "name": "meridian:suspense-sound2"
+      }
+    ]
+  }
+}
