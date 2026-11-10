@@ -11,6 +11,8 @@ Registered sound events:
 - meridian:heartbeat
 - meridian:humming_lights_with_flicker
 - meridian:metal_creaking
+- meridian:monster_roar
+- meridian:monster_eating
 - meridian:monster_growl1
 - meridian:monster_growl2
 - meridian:monster_step_left
