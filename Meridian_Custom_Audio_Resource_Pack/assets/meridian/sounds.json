@@ -1,4 +1,3 @@
-
 {
   "chase_music": {
     "sounds": [
@@ -96,6 +95,13 @@
     "sounds": [
       {
         "name": "meridian:suspense-sound2"
+      }
+    ]
+  },
+  "shell_beep": {
+    "sounds": [
+      {
+        "name": "meridian:shell_beep"
       }
     ]
   }
